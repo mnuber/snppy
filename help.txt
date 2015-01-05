@@ -1,0 +1,22 @@
+SNPPy (requires Python 2.7)
+
+usage:
+-f [FILENAME]
+-i init
+-u update
+-r report
+
+examples:
+
+Create a snppy db:
+snppy -f sample.db -i
+
+Update SNPs from SNPedia:
+snppy -f sample.db -u
+
+Generate a report about 23andme data from SNPedia data:
+snppy -f sample.db -r
+
+
+
+
