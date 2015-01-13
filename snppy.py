@@ -1,5 +1,7 @@
-##snppy.py (Python 2.7)
-
+##snppy.py
+##
+##SNPPy requires data from 23andme.com in the form of a .txt downloadable from their website.
+##To use, see help.txt
 
 import argparse
 
