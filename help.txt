@@ -17,6 +17,14 @@ snppy -f sample.db -u
 Generate a report about 23andme data from SNPedia data:
 snppy -f sample.db -r
 
+SNPPy requires genetic data from 23andme.com. 
+There is a small sample included in this repository, and there are all also freely available datasets available online.
 
+SNPPy populates a database from the MediaWiki API of snpedia.org
+
+The authors of this software are in no way affiliated with snpedia.org or the SNPedia project.  It is the intention of the
+authors of this software to eventually include a smaller version of the SNPedia SNP database alongside this project.
+Until then, be advised that the database created by create_dbs.py in this repository fall under the 
+Creative Commons Non-Commercial Agreement and any other licenses claimed by the SNPedia project.
 
 
